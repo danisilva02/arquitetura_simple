@@ -1,0 +1,17 @@
+{
+  "name": "euviajante",
+  "description": "posto sobre minhas viagens",
+  "main": "index.js",
+  "authors": [
+    "daniel.silvamiranda02@gmail.com"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
